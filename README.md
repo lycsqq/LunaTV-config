@@ -337,12 +337,12 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-11-23 01:07 CST）
+## API 状态（最近更新：2026-11-24 01:09 CST）
 
 - 总 API 数量：78
 - 成功 API 数量：62
 - 失败 API 数量：16
-- 平均可用率：79.0%
+- 平均可用率：78.9%
 - 完美可用率（100%）：51 个
 - 高可用率（80%-99%）：11 个
 - 中等可用率（50%-79%）：0 个
@@ -412,10 +412,10 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🎬量子资源 | [Link](https://cj.lzcaiji.com) | [Link](https://cj.lzcaiji.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞大地资源 | [Link](https://dadizy11.com) | [Link](https://dadiapi.com/feifei) | ❌ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞鲨鱼资源 | [Link](https://shayuapi.com) | [Link](https://shayuapi.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
-| ✅ | 🔞souavZY | [Link](https://api.souavzy.vip) | [Link](https://api.souavzy.vip/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ✅❌✅✅✅✅✅ |
-| ✅ | 🔞黄色仓库 | [Link](https://hsckzy.xyz) | [Link](https://hsckzy.xyz/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅✅❌✅✅✅ |
+| ✅ | 🔞souavZY | [Link](https://api.souavzy.vip) | [Link](https://api.souavzy.vip/api.php/provide/vod) | ✅ | 28 | 2 | 93.3% | ❌✅✅✅✅✅✅ |
+| ✅ | 🔞黄色仓库 | [Link](https://hsckzy.xyz) | [Link](https://hsckzy.xyz/api.php/provide/vod) | ✅ | 27 | 3 | 90.0% | ✅✅❌✅✅✅✅ |
 | ✅ | 🎬茅台资源 | [Link](https://mtzy.me) | [Link](https://caiji.maotaizy.cc/api.php/provide/vod) | 无结果 | 26 | 4 | 86.7% | ✅✅✅✅✅✅✅ |
-| 🚨 | 🎬豆瓣资源 | [Link](https://dbzy.tv) | [Link](https://caiji.dbzy5.com/api.php/provide/vod) | ❌ | 5 | 25 | 16.7% | ❌❌❌❌❌❌❌ |
+| 🚨 | 🎬豆瓣资源 | [Link](https://dbzy.tv) | [Link](https://caiji.dbzy5.com/api.php/provide/vod) | ❌ | 4 | 26 | 13.3% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬如意资源 | [Link](https://www.ryzyw.com) | [Link](https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬山海资源 | [Link](https://zy.sh0o.cn) | [Link](https://zy.sh0o.cn/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
